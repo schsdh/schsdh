@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @schsdh
-Soonchunhyang University 정보보호학과 학부생
+- Soonchunhyang University 정보보호학과 학부생
 
 
 <!---
